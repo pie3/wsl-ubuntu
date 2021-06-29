@@ -1,4 +1,5 @@
 # WSL Ubuntu 20.04快速搭建PHP非生产环境
+[知乎： https://zhuanlan.zhihu.com/p/74399330 ]
 
 ## 自动安装软件列表
 
